@@ -3,7 +3,7 @@
 ## **Project Overview**
 This **System Health Check** script is a Bash-based tool designed to monitor and log the health of a Linux system. It checks CPU, memory, and disk usage, as well as network connectivity. The results are logged in a file, providing an easy way to monitor resource utilization and spot potential performance issues.
 
-## **Files in the project
+## **Files in the project**
 - system_health_check.sh: The main script that performs CPU, memory, disk usage, and network checks.
 - system_health_log.txt: The log file that stores each check's output.
 
@@ -18,8 +18,8 @@ This **System Health Check** script is a Bash-based tool designed to monitor and
 - Basic bash environment
 
 ## **Project Structure**
--Devops
-   |----> ShellScripting
+- Devops
+   ----> ShellScripting
                |--------> system_health_check.sh
                |--------> system_health_check.txt
 ## **Usage**
@@ -36,7 +36,7 @@ This **System Health Check** script is a Bash-based tool designed to monitor and
 
 ## **Customization**
 **Thresholds:** The script allows customization of CPU, memory, and disk usage thresholds. These can be modified at the top of the script:
-CPU_THRESHOLD=80
+CPU_THRESHOLD=80 
 MEMORY_THRESHOLD=80
 DISK_THRESHOLD=80
 
