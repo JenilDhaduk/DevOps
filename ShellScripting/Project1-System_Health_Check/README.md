@@ -23,7 +23,7 @@ This **System Health Check** script is a Bash-based tool designed to monitor and
                |--------> system_health_check.sh, system_health_check.txt
 ## **Usage**
 1. Clone the repository to your local machine:
-   - git clone https://github.com/yourusername/yourrepository.git
+   - git clone https://github.com/JenilDhaduk/DevOps.git
 2. Navigate to the directory containing the system_health_check.sh script:
    - cd DevOps/ShellScripting
 3. Make the script executable:
